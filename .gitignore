@@ -1,0 +1,9 @@
+backend/node_modules
+backend/.env
+frontend/node_modules
+frontend/.env
+tasks.md
+frontend/.pnp
+frontend/.pnp.js
+name.txt
+task.txt
